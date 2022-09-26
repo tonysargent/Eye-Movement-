@@ -6,5 +6,5 @@
 
  Instructions
  Eye movement on mouse function.  Move your cursor on the screen, and the eyes will track the movement.
- 
+ Future iterations may include extra eyes and eye color change. 
  This is used under the MIT licence.
